@@ -40,9 +40,6 @@ Licensed under either of
 
 at your option.
 
-### Contribution
+### Output
+https://github.com/vrnimje/Game-of-Life-Rust-Wasm/assets/103848930/d5ec5677-a9cc-4e22-8fc7-9153da75a5e0
 
-Unless you explicitly state otherwise, any contribution intentionally
-submitted for inclusion in the work by you, as defined in the Apache-2.0
-license, shall be dual licensed as above, without any additional terms or
-conditions.
