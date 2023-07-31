@@ -2,11 +2,6 @@
 
   <h1><code>Game of Life, using Rust and WebAssembly</code></h1>
 
-  <h3>
-    <a href="https://rustwasm.github.io/docs/book/">Tutorial</a>
-    <span>
-  </h3>
-
   <sub>Built with 🦀🕸 by <a href="https://rustwasm.github.io/">The Rust and WebAssembly Working Group</a></sub>
 </div>
 
@@ -23,12 +18,6 @@ Conway's Game of Life, which consists of a Universe of infinite cells. These cel
 
 ```
 wasm-pack build
-```
-
-### 🔬 Test in Headless Browsers with `wasm-pack test`
-
-```
-wasm-pack test --headless --firefox
 ```
 
 ## License
